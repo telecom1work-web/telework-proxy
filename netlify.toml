@@ -1,7 +1,1 @@
-[build]
-  functions = "functions"
-
-[[redirects]]
-  from = "/*"
-  to = "/.netlify/functions/booking"
-  status = 200
+# No special configuration needed.
