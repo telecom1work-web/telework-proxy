@@ -1,6 +1,6 @@
 // functions/booking.js
 
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzrh9UjhH5zso-y0twipOKr4-0gLzyCkPiunth5A8uqRqKukXf2rkrEbBtUz29bt4V9/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwzCLVi9BJseSoOrsj3FdRLetSMnOlNy00ncUjMqo3PCOQ1jQaYZy60w8GLAL1RDWC2/exec';
 
 exports.handler = async function(event, context) {
   try {
